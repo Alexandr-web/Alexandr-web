@@ -1,5 +1,5 @@
 ## About me
-👋 Hello everyone, my name is Alexander Yakovlev, i'm live in Russia and I'm a junior front-end developer.
+👋 Hello everyone, my name is Alexandr Yakovlev, i'm live in Russia and I'm a junior front-end developer.
 
 ## Interests
 👀 I am interested in website and web application development.
