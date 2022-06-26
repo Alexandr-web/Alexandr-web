@@ -1,8 +1,8 @@
 ## About me
-👋 Hello everyone, my name is Alexandr Yakovlev, i'm live in Russia and I'm a junior front-end developer.
+👋 Hello everyone, my name is Alexandr Yakovlev, I live in Russia and do front-end.
 
 ## Interests
-👀 I am interested in website and web application development.
+👀 I am creating sites on PEVN, Nuxt, Gulp.
 
 ## Currently learning
 🌱 At the moment I am learning PEVN (PostgreSQL, Express, Vue, Nodejs) stack and nuxt.
