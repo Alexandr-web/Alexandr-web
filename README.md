@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandr Yakovlev</h1>
 <h3 align="center">Junior Front-End developer from Russia</h3>
 
-- 🔭 I’m currently working on [Online Store Alita](https://github.com/Alexandr-web/OnlineStorePEVN)
+- 🔭 I’m currently working on [voshovi](https://github.com/Alexandr-web/voshovi)
 
 - 🌱 I’m currently learning **Nuxt, Node.js, PostgreSQL**
 
