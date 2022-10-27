@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexandr Yakovlev</h1>
 <h3 align="center">Junior Front-End developer from Russia</h3>
 
-- 🔭 I’m currently working on [speekey](https://github.com/Alexandr-web/speekey)
+- 🔭 I’m currently working on [video platform](https://github.com/Alexandr-web/videoPlatform)
 
-- 🌱 I’m currently learning **Nuxt, Node.js, PostgreSQL**
+- 🌱 I’m currently learning **Nuxt, Node.js**
 
 - 💬 Ask me about **Nuxt, Vue.js**
 
