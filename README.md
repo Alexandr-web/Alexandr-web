@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandr Yakovlev</h1>
 <h3 align="center">Junior Front-End developer from Russia</h3>
 
-- 🔭 I’m currently working on [aCharty]([https://github.com/Alexandr-web/videoPlatform](https://github.com/Alexandr-web/aCharty.git))
+- 🔭 I’m currently working on [aCharty](https://github.com/Alexandr-web/aCharty.git)
 
 - 🌱 I’m currently learning **Nuxt, Node.js**
 
