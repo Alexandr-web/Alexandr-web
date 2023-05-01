@@ -5,11 +5,7 @@
 <h1 align="center">Hi 👋, I'm Alexandr Yakovlev</h1>
 <h3 align="center">Junior Front-End developer from Russia</h3>
 
-- 🔭 I’m currently working on [Sinera](https://github.com/Alexandr-web/Sinera)
-
-- 🌱 I’m currently learning **Nuxt, Node.js**
-
-- 💬 Ask me about **Nuxt, Vue.js**
+- 🔭 I’m currently working on [Licha](https://github.com/Alexandr-web/Licha)
 
 - 📫 How to reach me **alexandr.yakovlev228@gmail.com**
 
