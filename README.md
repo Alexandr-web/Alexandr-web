@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Alexandr Yakovlev</h1>
 <h3 align="center">Junior Front-End developer from Russia</h3>
 
-- 🔭 I’m currently working on [Licha](https://github.com/Alexandr-web/Licha)
+- 🔭 I’m currently working on [Music app laravel](https://github.com/Alexandr-web/music-app-laravel)
 
 - 📫 How to reach me **alexandr.yakovlev228@gmail.com**
 
