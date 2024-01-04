@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Alexandr Yakovlev</h1>
 <h3 align="center">Junior Front-End developer from Russia</h3>
 
-- 🔭 I’m currently working on [Music nuxt app](https://github.com/Alexandr-web/Yanix)
+- 🔭 I’m currently working on [js-highlight](https://github.com/Alexandr-web/js-highlight)
 
 - 📫 How to reach me **alexandr.yakovlev228@gmail.com**
 
