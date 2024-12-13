@@ -3,9 +3,7 @@
 <div>
 
 <h1 align="center">Hi 👋, I'm Alexandr Yakovlev</h1>
-<h3 align="center">Junior Front-End developer from Russia</h3>
-
-- 🔭 I’m currently working on [js-highlight](https://github.com/Alexandr-web/js-highlight)
+<h3 align="center">Front-End developer from Russia</h3>
 
 - 📫 How to reach me **alexandr.yakovlev228@gmail.com**
 
