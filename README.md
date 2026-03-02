@@ -3,7 +3,7 @@
 <div>
 
 <h3>About me</h3>
-<p>Hello everyone, my name is Alexandr, I am 20 years old. I am engaged in front-end development on Vue. If you have any questions or just want to contact me, you can write to me by email alexandr.uaka23@gmail.com</p>
+<p>Hello everyone, my name is Alexandr, I am 21 years old. I am engaged in front-end development on Vue. If you have any questions or just want to contact me, you can write to me by email alexandr.uaka23@gmail.com</p>
 
 <h3>Skills</h3>
 
